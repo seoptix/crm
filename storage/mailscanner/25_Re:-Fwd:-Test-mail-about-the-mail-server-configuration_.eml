@@ -1,0 +1,71 @@
+Received: from [80.67.18.10] (helo=mx10.ispgateway.de)
+	by daryl.ispgateway.de with esmtp (Exim 4.68)
+	(envelope-from <support@seoptix.com>)
+	id 1bmjYN-0003YW-8Z; Wed, 21 Sep 2016 17:35:19 +0200
+Return-path: <support@seoptix.com>
+X-Envelope-To: daniel.tenningas@memotrek.com
+Received: from [23.83.209.21] (helo=bongo.birch.relay.mailchannels.net)
+	by mx10.ispgateway.de with esmtps (TLSv1.2:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.84)
+	(envelope-from <support@seoptix.com>)
+	id 1bmjYN-0004Eo-04
+	for daniel.tenningas@memotrek.com; Wed, 21 Sep 2016 17:35:19 +0200
+X-Sender-Id: a2hosting|x-authuser|support@seoptix.com
+Received: from relay.mailchannels.net (localhost [127.0.0.1])
+	by relay.mailchannels.net (Postfix) with ESMTP id 978261211EF
+	for <daniel.tenningas@memotrek.com>; Wed, 21 Sep 2016 15:35:14 +0000 (UTC)
+Received: from ssr7.supercp.com (ip-10-220-3-24.us-west-2.compute.internal [10.220.3.24])
+	by relay.mailchannels.net (Postfix) with ESMTPA id 158D6120EA1
+	for <daniel.tenningas@memotrek.com>; Wed, 21 Sep 2016 15:35:10 +0000 (UTC)
+X-Sender-Id: a2hosting|x-authuser|support@seoptix.com
+Received: from ssr7.supercp.com (ssr7.supercp.com [10.28.138.177])
+	(using TLSv1.2 with cipher DHE-RSA-AES256-GCM-SHA384)
+	by 0.0.0.0:2500 (trex/5.7.8);
+	Wed, 21 Sep 2016 15:35:11 +0000
+X-MC-Relay: Neutral
+X-MailChannels-SenderId: a2hosting|x-authuser|support@seoptix.com
+X-MailChannels-Auth-Id: a2hosting
+X-MC-Loop-Signature: 1474472111321:1517492412
+X-MC-Ingress-Time: 1474472111320
+Received: from [104.218.11.10] (port=35684 helo=www.seoptix.com)
+	by ssr7.supercp.com with esmtpa (Exim 4.87)
+	(envelope-from <support@seoptix.com>)
+	id 1bmjYD-000iCT-Ux
+	for daniel.tenningas@memotrek.com; Wed, 21 Sep 2016 11:35:10 -0400
+Date: Wed, 21 Sep 2016 15:35:09 +0000
+To: daniel.tenningas@memotrek.com
+From: "Daniel T." <support@seoptix.com>
+Reply-To: danten@seoptix.com
+Subject: Re: Fwd: Test mail about the mail server configuration.
+Message-ID: <53eecafed2b7e4c66c41bd19cf9ab3b4@www.seoptix.com>
+X-Priority: 3
+X-Mailer: SEOptix Secure Mailer 2.3
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+X-AuthUser: support@seoptix.com
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
+	spamfilter12.ispgateway.de
+X-Spam-Level: 
+X-Spam-Status: No, hits=0.0 required=9999.0 tests=BAYES_50 autolearn=disabled
+	version=3.3.1
+X-Spam-CMAETAG: v=2.1 cv=edqzft0H c=1 sm=0 tr=0
+	a=/YLLNKXGq6Q2nOwBN7FsBQ==:17 a=vrmhnAz3pJyqWDmDIStkYNBM3XU=:19
+	a=IkcTkHD0fZMA:10 a=GW1xBdLrtEIA:10 a=z_mjYkKQAAAA:8
+	a=rreSr_SHKCl4AdF7fbIA:9 a=QEXdDO2ut3YA:10 a=Eccwaf3P1gUA:10
+	a=HWt6MruQbz8A:10 a=SdEpH9X61ucZv-3XGv4b:22 xcat=Undefined/Undefined
+X-Spam-CMAECATEGORY: 0
+X-Spam-CMAESUBCATEGORY: 0
+X-Spam-CMAESCORE: 0
+
+
+<p>Hi there, testing the reply here</p>
+
+<p style=3D"margin:0;padding:0;">On 2016-09-21 23:32:00, daniel.tenningas=
+@memotrek.com, wrote:</p>
+
+<blockquote style=3D"border:0;margin:0;border-left:1px solid #808080;padd=
+ing:0 0 0 2px;">testing<br />
+=C2=A0</blockquote>
+
+
